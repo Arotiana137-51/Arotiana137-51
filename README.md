@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm Arotiana, a software developer (Java&Ract) from Madagascar (Not the  animation movie, but  right next to Sout Africa). I'm passionate about solving world problems and enjoy working on React. 
+I'm Arotiana, a software developer (Java&Ract) from Madagascar (Not the  animation movie, but the country east to Sout Africa, separated by Mozambic Chanel). I'm passionate about solving world problems and enjoy working on React. 
 
 ## Skills
 
